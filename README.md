@@ -5,6 +5,7 @@ En este repositorio se encuentra el trabajo practico integrador de javaScript.<b
 <br>
 Para poder visualizarlo se debe descargar el zip y descomprimirlo. Luego con visual, en una nueva terminal utilizar el comando: npm run dev, para conseguir el localhost donde podremos visualizar el proyecto.
 <br>
+Ademas en la terminal debemos instalar swal con el comando: npm install sweetalert2
 <br>
 ### Agregar Elementos:
 <br>
